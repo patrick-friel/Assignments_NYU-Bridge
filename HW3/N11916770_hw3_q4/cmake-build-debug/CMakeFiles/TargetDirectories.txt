@@ -1,0 +1,3 @@
+C:/Users/patri/OneDrive/Desktop/NYU Tandon Bridge/HW3/N11916770_hw3_q4/cmake-build-debug/CMakeFiles/N11916770_hw3_q4.dir
+C:/Users/patri/OneDrive/Desktop/NYU Tandon Bridge/HW3/N11916770_hw3_q4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/patri/OneDrive/Desktop/NYU Tandon Bridge/HW3/N11916770_hw3_q4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

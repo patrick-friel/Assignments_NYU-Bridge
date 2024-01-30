@@ -1,0 +1,3 @@
+C:/Users/patri/OneDrive/Desktop/N11916770_hw2_q4/cmake-build-debug/CMakeFiles/N11916770_hw2_q4.dir
+C:/Users/patri/OneDrive/Desktop/N11916770_hw2_q4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/patri/OneDrive/Desktop/N11916770_hw2_q4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
