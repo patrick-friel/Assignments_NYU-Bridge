@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/patri/OneDrive/Desktop/N11916770_hw2_q4
+# Install script for directory: C:/Users/patri/OneDrive/Desktop/NYU Tandon Bridge/Assignments_NYU-Bridge/HW2/N11916770_hw2_q4
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/patri/OneDrive/Desktop/N11916770_hw2_q4/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/patri/OneDrive/Desktop/NYU Tandon Bridge/Assignments_NYU-Bridge/HW2/N11916770_hw2_q4/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
