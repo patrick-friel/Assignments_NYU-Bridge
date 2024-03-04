@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/patri/OneDrive/Desktop/NYU Tandon Bridge/HW3/N11916770_hw3_q4/cmake-build-debug"
+			"value" : "c:/Users/patri/Documents/GitHub/Assignments_NYU-Bridge/HW2/N11916770_hw2_q1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/patri/OneDrive/Desktop/NYU Tandon Bridge/HW3/N11916770_hw3_q4/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/patri/Documents/GitHub/Assignments_NYU-Bridge/HW2/N11916770_hw2_q1/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/patri/OneDrive/Desktop/NYU Tandon Bridge/HW3/N11916770_hw3_q4"
+			"value" : "C:/Users/patri/Documents/GitHub/Assignments_NYU-Bridge/HW2/N11916770_hw2_q1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/N11916770_hw3_q4"
+			"value" : "C:/Program Files (x86)/N11916770_hw2_q1"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -687,7 +687,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/PROGRA~1/JETBRA~1/CLion 2023.3.2/bin/ninja/win/x64/ninja.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2023.3.2/bin/ninja/win/x64/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "N11916770_hw3_q4"
+			"value" : "N11916770_hw2_q1"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1270,7 +1270,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "N11916770_hw3_q4_BINARY_DIR",
+			"name" : "N11916770_hw2_q1_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1279,10 +1279,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/patri/OneDrive/Desktop/NYU Tandon Bridge/HW3/N11916770_hw3_q4/cmake-build-debug"
+			"value" : "C:/Users/patri/Documents/GitHub/Assignments_NYU-Bridge/HW2/N11916770_hw2_q1/cmake-build-debug"
 		},
 		{
-			"name" : "N11916770_hw3_q4_IS_TOP_LEVEL",
+			"name" : "N11916770_hw2_q1_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1294,7 +1294,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "N11916770_hw3_q4_SOURCE_DIR",
+			"name" : "N11916770_hw2_q1_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/patri/OneDrive/Desktop/NYU Tandon Bridge/HW3/N11916770_hw3_q4"
+			"value" : "C:/Users/patri/Documents/GitHub/Assignments_NYU-Bridge/HW2/N11916770_hw2_q1"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
